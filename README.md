@@ -36,7 +36,9 @@ The website must, at the top of every page, have a navigation menu that:
 * Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section (notice the background color change).
 
 Finally, the website must be deployed to GitHub pages.
-  When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
+When finished, submit to BootcampSpot the links to 
+  1. the deployed app.
+  2. the GitHub repository.
 
 ## Considerations
 
